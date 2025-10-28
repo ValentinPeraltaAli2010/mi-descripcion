@@ -2,4 +2,5 @@ sobre mi_{
     Nombre: Grasastegui
     Comida favorita: Chorizo 
     Edad: -15
+    Habilidades: Tocar la bateria y besarme.
 }
