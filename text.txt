@@ -1,0 +1,5 @@
+sobre mi_{
+    Nombre: Grasastegui
+    Comida favorita: Chorizo 
+    Edad: -15
+}
