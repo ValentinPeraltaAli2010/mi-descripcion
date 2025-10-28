@@ -2,5 +2,9 @@ sobre mi_{
     Nombre: Grasastegui
     Comida favorita: Chorizo 
     Edad: -15
+<<<<<<< HEAD
     pasatiempos: comer cosas grasosas y Far Cry 5 que el Torres compro por mi por pobre.
+=======
+    Habilidades: Tocar la bateria y besarme.
+>>>>>>> habilidades
 }
